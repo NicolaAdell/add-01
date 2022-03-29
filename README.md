@@ -1,5 +1,4 @@
 # Micropython Pin
-# Actividad 1
 
 Nombre: Adell, Nicolás
 
